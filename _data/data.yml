@@ -55,24 +55,24 @@ education:
       time: 2008 - 2012
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead Frontend Developer
+      time: 2018 - Present
+      company: Ericsson (kwan technology contractor)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As a team lead I must to support the team members about doubts, concerns,
+        communication and motivation by give them the necessary for success in their
+        personal and professional growth. At the same time I have to code, review code and
+        make technical decisions about the new web dashboard which integrates many 
+        Ericsson services which facilitates plan, create, deploy and destroy virtual clusters.
+        
+          - Implementing swagger generator code for the API client
+          - Implementing websocket communication and integration with redux
+          - Implementing test architecture with jest and enzyme
+          - Encouraging team training with react, redux courses
+          - Integrating rxjs for reactive programming
+          - Constantly reviewing code in order to follow team code guidelines, avoid anti patterns and being declarative
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
+    - role: Junior Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
