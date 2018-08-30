@@ -57,7 +57,7 @@ education:
 experiences:
     - role: Lead Frontend Developer
       time: 2018 - Present
-      company: Ericsson (kwan technology contractor)
+      company: Ericsson (kwan technology contractor), San Francisco
       details: |
         As a team lead I must to support the team members about doubts, concerns,
         communication and motivation by give them the necessary for success in their
@@ -72,31 +72,37 @@ experiences:
           - Integrating rxjs for reactive programming
           - Constantly reviewing code in order to follow team code guidelines, avoid anti patterns and being declarative
 
-    - role: Junior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Lead Frontend Developer
+      time: 2016 - 2018
+      company: Apcera (kwan technology contractor), San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Apcera is a virtual cloud distributed company and my role there demands me
+        to increase the functionality and quality of the platform by adding new features,
+        refactoring code, fixing bugs and writing test cases which insure high code quality.
 
-          - Bullet point
-          - Bullet point
+          - Successful implementation of keycloak authentication for Bank of France
+          - Participating in demo days by showing new features
+          - Developing some reusable web components which are being used into de web application
+          - Fixing bugs always strating with the most critical
+          - Reviewing code for increasing quality and reducing potential bugs
+          - Supporting team members when is needed
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Full stack developer
+      time: 2012 - 2016
+      company: Network Information Center Mexico, Mexico
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I had the opportunity to work on projects about critical internet information
+        and resources like IP's and Domain Names by adding new modules, refactoring code
+        fixing bugs and analyzing coming requirements by interacting with inernal clients.
 
-          - Bullet point
-          - Bullet point
+          - Creating a web application about a diagnostic DNS tool
+          - Fixing data integrity by adding SQL scripts
+          - Participating in DNSSec project by adding features and fixing bugs
+          - Working in the .MX system administration (intranet, extranet, services, reporting system)
+          - Working in the IAR (Internet Addresses and Resources Mexico) system administration (intranet, extranet, services, reporting system)
+          - Certified as Oracle Database SQL Certified Expert
+          - Certified as Oracle Associate Java 7 SE Programmer
+          - Participating in INMX in order to propose an innovative solution about education in Mexico, afterward the idea was chosen as one of the best.
 
 projects:
     title: Projects
