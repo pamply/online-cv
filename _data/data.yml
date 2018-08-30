@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Manuel Alejandro Pamplona Rosado
+    name: Manuel A. Pamplona Rosado
     tagline: Frontend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -28,52 +28,31 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Baseball
         link:
 
-      - item: Cooking
+      - item: Dogs
         link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    summary: 
+      A passionate software engineer with more than six years of experience mainly
+      focus on web development and specialized in creating great experience as a frontend
+      developer. Almost two years as team lead as a consequence of my passion and
+      commitment to quality. I'm always in a good disposition about big challenges that's why
+      I have worked in companies about MX domain name and internet protocol addresses
+      administration (NIC Mexico), cloud platform virtualization companies like Apcera and currently Ericsson.
+      I'll always be happy working with talent people, challenging tasks and the opportunity 
+      to constantly learn new tools, patterns, paradigms, languages and so on.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+    - degree: Bachelors degree in software engineering
+      university: School of mathematics (Yucatan's Autonomous University)
+      time: 2008 - 2012
 
 experiences:
     - role: Lead Developer
