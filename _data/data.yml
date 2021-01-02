@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Manuel A. Pamplona Rosado
-    tagline: Team Lead Frontend Developer
+    tagline: Senior Frontend Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,16 +38,13 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: 
-      A passionate software engineer with more than six years of experience mainly
-      focus on web development and specialized in creating great experience as a frontend
-      developer. Almost two years as team lead as a consequence of my passion and
-      commitment to quality. I'm always in a good disposition about big challenges that's why
-      I have worked in companies about MX domain name and internet protocol addresses
-      administration (NIC Mexico), cloud platform virtualization companies like Apcera and currently Ericsson.
-      I'll always be happy working with talent people, challenging tasks and the opportunity 
-      to constantly learn new tools, patterns, paradigms, languages and so on.
+      Software engineer with 6+ years of experience in web development area with high interests  and attention in software architecture.
+      My goal as a professional is clear make the user happy through understanding their needs and feelings, make enginering team happy through
+      scalable solutions, clean code, solid architecture, automation and teamwork. Finally make product through data-driven decisions 
+      and exceeding expectations.
+      
 
 education:
     - degree: Bachelors degree in software engineering
@@ -69,8 +66,6 @@ experiences:
           - Implementing websocket communication and integration with redux
           - Implementing test architecture with jest and enzyme
           - Encouraging team training with react, redux courses
-          - Integrating rxjs for reactive programming
-          - Constantly reviewing code in order to follow team code guidelines, avoid anti patterns and being declarative
 
     - role: Lead Frontend Developer
       time: 2016 - 2018
