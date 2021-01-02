@@ -129,7 +129,7 @@ skills:
       - name: HTML & CSS
         level: 80%
 
-      - name: State management (Local / Context / Redux / Apollo)
+      - name: State management
         level: 80%
 
       - name: Typescript
@@ -138,7 +138,7 @@ skills:
       - name: Graphql
         evel: 80%
 
-      - name: Testing (mocha / jest / selenium)
+      - name: Testing
         level: 80%
 
       - name: NodeJS
