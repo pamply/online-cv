@@ -43,7 +43,6 @@ career-profile:
       Software engineer with 6+ years of experience in web development area with high interests  and attention in software architecture.
       My goal as a professional is clear make the user happy through understanding their needs and feelings, make enginering team happy through
       scalable solutions, clean code, solid architecture, automation and teamwork. <br />Finally make product happy through data-driven decisions and exceeding expectations.
-      
 
 education:
     - degree: Bachelors degree in software engineering
@@ -125,31 +124,22 @@ skills:
         level: 90%
 
       - name: React
+        level: 90%
+
+      - name: HTML & CSS
         level: 80%
 
-      - name: Redux
-        level: 80%
-      
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Jest / enzyme
+      - name: State management (Local / Context / Redux / Apollo)
         level: 80%
 
-      - name : npm
-        level: 75%
+      - name: Typescript
+        level: 80%
 
-      - name: Mitrhil
-        level: 85%
-      
+      - name: Graphql
+        evel: 80%
+
+      - name: Testing (mocha / jest / selenium)
+        level: 80%
+
       - name: NodeJS
-        level: 70%
-
-      - name: Java
-        level: 85%
-
-      - name: Oracle
-        level: 75%
-
-      - name: MySQL
         level: 70%
