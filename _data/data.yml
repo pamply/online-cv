@@ -65,7 +65,6 @@ experiences:
           - Helping to upgrade from apollo 2 to apollo 3 in different projects
           - Sharing a testing mindset across the team in order to improve confidence in our code
 
-experiences:
     - role: Regular frontend engineer
       time: 2018 - 2019
       company: HomeAway (luxoft contractor), Austin TX
@@ -79,7 +78,6 @@ experiences:
           - Creating and performing a React workshop for internal and external engineers
           - Creating automated scripts in Node JS in order to fix data integrity
 
-experiences:
     - role: Lead Frontend Developer
       time: 2018
       company: Ericsson (kwan technology contractor), San Francisco
