@@ -57,10 +57,10 @@ experiences:
       company: VRBO by Expedia (luxoft contractor), Austin TX
       details: |
 
-          - Creating a hapi js plugin for consuming feature flags using the in-house tool instead of an expensive one
-          - Modernize our legacy webapp class-based archiutecture in one more oriented to Functional components, hooks and composition
+          - Creating a hapi js plugin for consuming feature flags using the in-house tool instead of a third-party costly tool
+          - Modernize our legacy webapp class-based architecture in one more oriented to functional components, hooks and composition
           - Introducing the render as you fetch pattern in order to have a faster loading experience
-          - Mentoring three diferent engineers (one internal, two externals) in order to succedd with some internal client in luxoft
+          - Mentoring three different engineers (one internal, two externals) in order to succeed with some internal client in luxoft
           - Performing a workshop called "From lazy to performant" in the JS Conf Mexico 2020
           - Helping to upgrade from apollo 2 to apollo 3 in different projects
           - Sharing a testing mindset across the team in order to improve confidence in our code
