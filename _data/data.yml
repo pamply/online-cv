@@ -54,7 +54,6 @@ experiences:
       time: 2018
       company: Ericsson (kwan technology contractor), San Francisco
       details:
-        
           - Automating the generation of JS client API layer with swagger generator code
           - Creating a terminal-like module via websocket communication with redux as state management
           - Implementing test architecture with jest and enzyme
@@ -63,8 +62,7 @@ experiences:
     - role: Lead Frontend Developer
       time: 2016 - 2018
       company: Apcera (kwan technology contractor), San Francisco
-      details:
-
+      details: 
           - Encouraging / supporting / mentoring team members so they can grow
           - Successful implementation of a web module for keycloak authentication with Bank of France
           - Creating different reusable web components
@@ -74,8 +72,7 @@ experiences:
     - role: Full stack developer
       time: 2012 - 2016
       company: Network Information Center Mexico, Mexico
-      details:
-
+      details: 
           - Creating a web application about a diagnostic DNS tool
           - Code refactoring / Bug fixes
           - Fixing data integrity by adding SQL scripts
