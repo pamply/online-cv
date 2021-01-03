@@ -13,9 +13,11 @@ sidebar:
 
     # Sidebar links
     email: Manuel.Pamplona.Rosado@gmail.com
+    url: https://www.mapr.dev
     phone: 
     linkedin: manuel-pamplona-b038a59a
     github: pamply
+    twitter: https://twitter.com/ManuelPamplona
     gitlab:
     bitbucket:
     codewars:
@@ -52,7 +54,7 @@ education:
 experiences:
     - role: Senior frontend engineer
       time: 2020
-      company: Expedia (luxoft contractor), Austin TX
+      company: VRBO by Expedia (luxoft contractor), Austin TX
       details: |
 
           - Creating a hapi js plugin for consuming feature flags using the in-house tool instead of an expensive one
@@ -66,13 +68,13 @@ experiences:
 experiences:
     - role: Regular frontend engineer
       time: 2018 - 2019
-      company: VRBO (luxoft contractor), Austin TX
+      company: HomeAway (luxoft contractor), Austin TX
       details: |
 
           - Being part of migration from a java based webapp to a JS client side SPA webapp
           - Creating different reusable web components using React both class and functional
           - Improving monitoring and alert for site reliability according to SRE practices
-          - Fixing server side memory leak
+          - Fixing server side memory leak using google profiling tool
           - Code refactoring / Bug fixes / Code review / Pair programming
           - Creating and performing a React workshop for internal and external engineers
           - Creating automated scripts in Node JS in order to fix data integrity
