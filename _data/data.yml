@@ -101,20 +101,28 @@ projects:
     title: Projects
 
     assignments:
+      - title: VRBO
+        link: "https://www.vrbo.com/"
+        tagline: "A self-service web app that allows property owners to increase their bookings by managing content like amenities, photos, video"
+
       - title: ECCD Web Admin 
-        tagline: "A private web platform which integrates Ericsson services for creating, planing, deploying, destroying, configuring virtual distributed clusters"
+        tagline: "A private web platform which integrates Ericsson services for creating, planning, deploying, destroying, configuring virtual distributed clusters"
 
       - title: Apcera platform
         link: "https://www.apcera.com"
-        tagline: "A web console platform which allows devops or developer users to manage a cluster with applications, services, orchestration and governance"
+        tagline: "A web console platform which allows engineers to manage clusters with applications, services, orchestration and governance"
 
       - title: Registry MX
         link: "https://www.registry.mx"
         tagline: "A web extranet for .mx domain name administration"
 
+      - title: DNS test tool
+        link: "https://www.dnstest.mx"
+        tagline: "A web tool for displaying information about DNS servers configuration depending on your Domain Name"
+
       - title: IAR
         link: "https://www.iar.mx"
-        tagline: "A web extranet for mexico internet addresses and resources administration"
+        tagline: "A web extranet for internet addresses and resources administration in Mexico"
 
 skills:
     title: Skills &amp; Proficiency
