@@ -52,24 +52,30 @@ education:
 experiences:
     - role: Senior frontend engineer
       time: 2020
-      company: Ericsson (kwan technology contractor), San Francisco
+      company: Expedia (luxoft contractor), Austin TX
       details: |
 
-          - Automating the generation of JS client API layer with swagger generator code
-          - Creating a terminal-like module via websocket communication with redux as state management
-          - Implementing test architecture with jest and enzyme
-          - Increasing team member's skills via react and redux coruses
+          - Creating a hapi js plugin for consuming feature flags using the in-house tool instead of an expensive one
+          - Modernize our legacy webapp class-based archiutecture in one more oriented to Functional components, hooks and composition
+          - Introducing the render as you fetch pattern in order to have a faster loading experience
+          - Mentoring three diferent engineers (one internal, two externals) in order to succedd with some internal client in luxoft
+          - Performing a workshop called "From lazy to performant" in the JS Conf Mexico 2020
+          - Helping to upgrade from apollo 2 to apollo 3 in different projects
+          - Sharing a testing mindset across the team in order to improve confidence in our code
 
 experiences:
     - role: Regular frontend engineer
       time: 2018 - 2019
-      company: Ericsson (kwan technology contractor), San Francisco
+      company: VRBO (luxoft contractor), Austin TX
       details: |
 
-          - Automating the generation of JS client API layer with swagger generator code
-          - Creating a terminal-like module via websocket communication with redux as state management
-          - Implementing test architecture with jest and enzyme
-          - Increasing team member's skills via react and redux coruses
+          - Being part of migration from a java based webapp to a JS client side SPA webapp
+          - Creating different reusable web components using React both class and functional
+          - Improving monitoring and alert for site reliability according to SRE practices
+          - Fixing server side memory leak
+          - Code refactoring / Bug fixes / Code review / Pair programming
+          - Creating and performing a React workshop for internal and external engineers
+          - Creating automated scripts in Node JS in order to fix data integrity
 
 experiences:
     - role: Lead Frontend Developer
@@ -89,9 +95,8 @@ experiences:
 
           - Encouraging / supporting / mentoring team members so they can grow
           - Successful implementation of a web module for keycloak authentication with Bank of France
-          - Creating different reusable web components
-          - Code refactoring / Bug fixes
-          - Code review / Pair programming
+          - Creating different reusable web components using React and Mithril
+          - Code refactoring / Bug fixes / Code review / Pair programming
 
     - role: Full stack developer
       time: 2012 - 2016
@@ -101,7 +106,7 @@ experiences:
           - Creating a web application about a diagnostic DNS tool
           - Code refactoring / Bug fixes
           - Fixing data integrity by adding SQL scripts
-          - Participating in DNSSec project by adding features and fixing bugs
+          - Participating in DNSSec project by adding features
           - Working in the .MX system administration (intranet, extranet, services, reporting system)
           - Working in the IAR (Internet Addresses and Resources Mexico) system administration (intranet, extranet, services, reporting system)
 
