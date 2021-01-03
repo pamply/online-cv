@@ -51,19 +51,14 @@ education:
 
 experiences:
     - role: Lead Frontend Developer
-      time: 2018 - Present
+      time: 2018
       company: Ericsson (kwan technology contractor), San Francisco
-      details: |
-        As a team lead I must to support the team members about doubts, concerns,
-        communication and motivation by give them the necessary for success in their
-        personal and professional growth. At the same time I have to code, review code and
-        make technical decisions about the new web dashboard which integrates many 
-        Ericsson services which facilitates plan, create, deploy and destroy virtual clusters.
+      details:
         
-          - Implementing swagger generator code for the API client
-          - Implementing websocket communication and integration with redux
+          - Automating the generation of JS client API layer with swagger generator code
+          - Creating a terminal-like module via websocket communication with redux as state management
           - Implementing test architecture with jest and enzyme
-          - Encouraging team training with react, redux courses
+          - Increasing team member's skills via react and redux coruses
 
     - role: Lead Frontend Developer
       time: 2016 - 2018
